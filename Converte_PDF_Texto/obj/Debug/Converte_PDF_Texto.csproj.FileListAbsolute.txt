@@ -1,0 +1,15 @@
+C:\GILBERTO\ADS\C#\Converte_PDF_Texto\Converte_PDF_Texto\bin\Debug\Converte_PDF_Texto.exe.config
+C:\GILBERTO\ADS\C#\Converte_PDF_Texto\Converte_PDF_Texto\bin\Debug\Converte_PDF_Texto.exe
+C:\GILBERTO\ADS\C#\Converte_PDF_Texto\Converte_PDF_Texto\bin\Debug\Converte_PDF_Texto.pdb
+C:\GILBERTO\ADS\C#\Converte_PDF_Texto\Converte_PDF_Texto\bin\Debug\BouncyCastle.Crypto.dll
+C:\GILBERTO\ADS\C#\Converte_PDF_Texto\Converte_PDF_Texto\bin\Debug\itextsharp.dll
+C:\GILBERTO\ADS\C#\Converte_PDF_Texto\Converte_PDF_Texto\bin\Debug\itextsharp.xml
+C:\GILBERTO\ADS\C#\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.csproj.AssemblyReference.cache
+C:\GILBERTO\ADS\C#\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.csproj.SuggestedBindingRedirects.cache
+C:\GILBERTO\ADS\C#\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.Form1.resources
+C:\GILBERTO\ADS\C#\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.Properties.Resources.resources
+C:\GILBERTO\ADS\C#\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.csproj.GenerateResource.cache
+C:\GILBERTO\ADS\C#\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.csproj.CoreCompileInputs.cache
+C:\GILBERTO\ADS\C#\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.csproj.CopyComplete
+C:\GILBERTO\ADS\C#\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.exe
+C:\GILBERTO\ADS\C#\Converte_PDF_Texto\Converte_PDF_Texto\obj\Debug\Converte_PDF_Texto.pdb
